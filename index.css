@@ -18,18 +18,13 @@ h3 {
 
 .container {
     text-align: center;
-    
     width: 575px;
     height: 385px;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
     background-color: #1B244A;
-    
-    
 }
-
-
 
 .scorebox {
     width: 155px;
@@ -47,7 +42,7 @@ h3 {
     font-family: "CursedTimer", sans-serif;
     font-size: 90px;
     font-weight: 400;
-    color: #F94F6D;    
+    color: #F94F6D;
 }
 
 button {
@@ -58,7 +53,6 @@ button {
     border-radius: 5px;
     border: 2px solid #9AABD8;
     padding: 10px
-    
 }
 
 .btn-row {
